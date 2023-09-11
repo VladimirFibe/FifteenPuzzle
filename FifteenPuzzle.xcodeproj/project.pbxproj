@@ -19,6 +19,7 @@
 		02A2406D2AADB67B008E9C92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		02A2406F2AADB67C008E9C92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02A240722AADB67C008E9C92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		02A240792AADB696008E9C92 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		02A2405F2AADB67B008E9C92 = {
 			isa = PBXGroup;
 			children = (
+				02A240792AADB696008E9C92 /* README.md */,
 				02A2406A2AADB67B008E9C92 /* FifteenPuzzle */,
 				02A240692AADB67B008E9C92 /* Products */,
 			);
